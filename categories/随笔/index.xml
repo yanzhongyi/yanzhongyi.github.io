@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>随笔 on 言中医 - 中医学习和入门</title>
+    <link>/categories/%E9%9A%8F%E7%AC%94/</link>
+    <description>Recent content in 随笔 on 言中医 - 中医学习和入门</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>言中医</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 11:15:20 +0800</lastBuildDate>
+    
+	<atom:link href="/categories/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>缘起</title>
+      <link>/start/</link>
+      <pubDate>Tue, 01 Jan 2019 11:15:20 +0800</pubDate>
+      
+      <guid>/start/</guid>
+      <description>这是一个记录的开始.</description>
+    </item>
+    
+  </channel>
+</rss>

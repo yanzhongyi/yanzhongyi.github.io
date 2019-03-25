@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>本草 on 言中医 - 中医学习和入门</title>
+    <link>/tags/%E6%9C%AC%E8%8D%89/</link>
+    <description>Recent content in 本草 on 言中医 - 中医学习和入门</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>言中医</copyright>
+    <lastBuildDate>Fri, 25 Jan 2019 11:15:20 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/%E6%9C%AC%E8%8D%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>神农本草经简介</title>
+      <link>/bencaojing/</link>
+      <pubDate>Fri, 25 Jan 2019 11:15:20 +0800</pubDate>
+      
+      <guid>/bencaojing/</guid>
+      <description>&lt;p&gt;《神农本草经》，简称《本经》，为中国现存较早的药物学重要文献，作者不详，约成书于秦汉时期。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

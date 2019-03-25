@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>内经 on 言中医 - 中医学习和入门</title>
+    <link>/tags/%E5%86%85%E7%BB%8F/</link>
+    <description>Recent content in 内经 on 言中医 - 中医学习和入门</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>言中医</copyright>
+    <lastBuildDate>Mon, 25 Mar 2019 11:15:20 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/%E5%86%85%E7%BB%8F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>难经简介</title>
+      <link>/nanjing/</link>
+      <pubDate>Mon, 25 Mar 2019 11:15:20 +0800</pubDate>
+      
+      <guid>/nanjing/</guid>
+      <description>&lt;p&gt;《难经》是中国古代医学著作《黄帝八十一难经》的简称，共三卷（亦有分五卷的）。《难经》是阐发《黄帝内经》的疑难和要旨的第一部书。后世将其列为中医四大经典之一。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>黄帝内经简介</title>
+      <link>/neijing/</link>
+      <pubDate>Tue, 01 Jan 2019 11:15:21 +0800</pubDate>
+      
+      <guid>/neijing/</guid>
+      <description>&lt;p&gt;《黄帝内经》（简称《内经》）在主流社会认为是现存最早中医理论著作，成书推测约于战国~西汉时期，在东汉至隋唐时期仍继续修订和补充。&lt;/p&gt;
+
+&lt;p&gt;《内经》包括《素问》和《灵枢》两部分，共18卷162篇。该书不仅奠定了中医学理论基础，也是中医学理论与实践等方面发展的基石。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

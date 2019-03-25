@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>网文精选 on 言中医 - 中医学习和入门</title>
+    <link>/categories/%E7%BD%91%E6%96%87%E7%B2%BE%E9%80%89/</link>
+    <description>Recent content in 网文精选 on 言中医 - 中医学习和入门</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>言中医</copyright>
+    <lastBuildDate>Fri, 15 Mar 2019 11:15:20 +0800</lastBuildDate>
+    
+	<atom:link href="/categories/%E7%BD%91%E6%96%87%E7%B2%BE%E9%80%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>中医治疗花粉症</title>
+      <link>/huafenzheng/</link>
+      <pubDate>Fri, 15 Mar 2019 11:15:20 +0800</pubDate>
+      
+      <guid>/huafenzheng/</guid>
+      <description>&lt;p&gt;选取两篇文章,以中医的观点看待过敏体质.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
